@@ -17,4 +17,4 @@ Voronezh, Russia
 
 Версия | Место  | Дата
 -|-|-
-1 | [Бар "НЗБ"](https://github.com/beerjs/voronezh/issues/) | 21 декабря 2019
+1 | [Бар "НЗБ"](https://github.com/beerjs/voronezh/issues/1) | 21 декабря 2019
