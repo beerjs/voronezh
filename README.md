@@ -1,4 +1,4 @@
-# BeerJS Voronezh
+# Beer JS Voronezh
 Voronezh, Russia
 
 [![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beer_js_voronezh)
