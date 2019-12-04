@@ -1,13 +1,13 @@
 # BeerJS Voronezh
 Voronezh, Russia
 
-[![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/js_monkeys)
+[![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beer_js_voronezh)
 
 <img src="https://github.com/beerjs/recife/blob/master/docs/img/icon-beerjs.png" align="right" hspace="10" vspace="6" width="12%">
 
 Устали от работы? Эффективный менеджер внедряет очередной скрам, VP чего-то там никак не подпишет вам бумажку с доступами, достал очередной энтерпрайзный баг на фикс цвета кнопки с двухдневным прогоном тестов? Приходите в компанию единомышленников поговорить о любимом и ненавистном JavaScript за кружечкой пива.
 
-Все актуальные новости будут в этом репозитории и [чате в Телеграме](https://t.me/js_monkeys). Анонсы событий можно будет также найти на [TimePad](https://js-monkeys-vrn.timepad.ru/events/). Подписывайтесь на обновления нажав "Watch" (звезда тоже не будет лишней :star:).
+Все актуальные новости будут в этом репозитории и [чате в Телеграме](https://t.me/beer_js_voronezh). Анонсы событий можно будет также найти на [TimePad](https://js-monkeys-vrn.timepad.ru/events/). Подписывайтесь на обновления нажав "Watch" (звезда тоже не будет лишней :star:).
 
 Желающие выступить могут писать на почту andrey@goncharov.page или в телеграм https://t.me/ai_goncharov
 
