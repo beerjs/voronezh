@@ -21,3 +21,4 @@ Voronezh, Russia
 -|-|-
 [1](https://github.com/beerjs/voronezh/issues/1) | [Бар "НЗБ"](https://go.2gis.com/cwvyb) | 21 декабря 2019
 [2](https://github.com/beerjs/voronezh/issues/2) | [Бар "НЗБ"](https://go.2gis.com/cwvyb) | 5 февраля 2020
+[3](https://github.com/beerjs/voronezh/issues/3) | [Бар "Белый ГенералЪ"](https://go.2gis.com/f7en7s) | 1 апреля 2020
