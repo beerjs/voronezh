@@ -3,7 +3,7 @@ Voronezh, Russia
 
 [![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beer_js_voronezh)
 
-<img src="https://github.com/beerjs/voronezh/blob/master/beerjsvrn.jpg" align="right" hspace="10" vspace="6" width="33%">
+<img src="https://github.com/beerjs/voronezh/blob/master/beerjs_voronezh.jpg" align="right" hspace="10" vspace="6" width="33%">
 
 Устали от работы? Эффективный менеджер внедряет очередной скрам, VP чего-то там никак не подпишет вам бумажку с доступами, достал очередной энтерпрайзный баг на фикс цвета кнопки с двухдневным прогоном тестов? Приходите в компанию единомышленников поговорить о любимом и ненавистном JavaScript за кружечкой пива.
 
