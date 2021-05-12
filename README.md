@@ -26,4 +26,4 @@ BeerJS сделан инженерами для инженеров. Мы за о
 [1](https://github.com/beerjs/voronezh/issues/1) | [Бар "НЗБ"](https://go.2gis.com/cwvyb) | 21 декабря 2019
 [2](https://github.com/beerjs/voronezh/issues/2) | [Бар "НЗБ"](https://go.2gis.com/cwvyb) | 5 февраля 2020
 [3](https://github.com/beerjs/voronezh/issues/3) | [Бар "Белый ГенералЪ"](https://go.2gis.com/f7en7s) | 1 апреля 2020
-[4](https://github.com/beerjs/voronezh/issues/4) | TBA | 5 июня 2021
+[4](https://github.com/beerjs/voronezh/issues/4) | [БЦ "Парламент"](https://2gis.ru/voronezh/firm/70000001044972059/39.192952%2C51.656296?m=39.192845%2C51.656164%2F18.38) | 5 июня 2021
